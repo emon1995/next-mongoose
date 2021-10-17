@@ -9,6 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "^11.5.0",
+    "@emotion/react": "^11.5.0",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/core": "^4.12.3",
+    "@mui/material": "^5.0.4",
+    "formik": "^2.2.9",
+    "formik-material-ui": "^4.0.0-alpha.1",
+    "mongoose": "^6.0.11",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
